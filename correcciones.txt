@@ -1,0 +1,18 @@
+
+Lineas con errores:
+
+1: DOCTYPE html sin la l
+4: etiqueta meta sin cerrar
+6: title sin cerrar
+7: etiqueta link mal hecha
+11: body sin cerrar
+15: img sin cerrar bien 
+19: etiqueta li sin cerrar 
+28: etiqueta h1 cerrada con h2 
+29: etiqueta p sin cerrar
+35: etiqueta b mal cerrada
+45: etiqueta option sin cerrar
+48: etiqueta nav random
+85 y 89: article cerrada en orden incorrecto
+92: etiqueta hr vacia
+97: etiqueta p sin cerrar  
